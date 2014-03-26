@@ -242,7 +242,7 @@
       [GUFixture newFixture:@[ @"11", @"Eagles", @"Kangaroos", @"Perth", @"2014-06-01T19:40:00+10:00" ]],
       [GUFixture newFixture:@[ @"12", @"Cats", @"Blues", @"Docklands", @"2014-06-06T19:50:00+10:00" ]],
       [GUFixture newFixture:@[ @"12", @"Hawks", @"Eagles", @"Launceston", @"2014-06-07T13:40:00+10:00" ]],
-      [GUFixture newFixture:@[ @"12", @"Power", @"Saints", @"Adelaide 4.40pm", @"2014-06-07T16:40:00+10:00" ]],
+      [GUFixture newFixture:@[ @"12", @"Power", @"Saints", @"Adelaide", @"2014-06-07T16:40:00+10:00" ]],
       [GUFixture newFixture:@[ @"12", @"Giants", @"Bombers", @"Sydney Showgrounds", @"2014-06-07T19:40:00+10:00" ]],
       [GUFixture newFixture:@[ @"12", @"Bulldogs", @"Lions", @"Docklands", @"2014-06-07T19:40:00+10:00" ]],
       [GUFixture newFixture:@[ @"12", @"Suns", @"Swans", @"Gold Coast", @"2014-06-08T15:20:00+10:00" ]],
@@ -299,7 +299,7 @@
       [GUFixture newFixture:@[ @"18", @"Giants", @"Cats", @"Sydney Showgrounds", @"2014-07-19T19:40:00+10:00" ]],
       [GUFixture newFixture:@[ @"18", @"Power", @"Demons", @"Adelaide", @"2014-07-20T13:10:00+10:00" ]],
       [GUFixture newFixture:@[ @"18", @"Bulldogs", @"Bombers", @"Docklands", @"2014-07-20T16:40:00+10:00" ]],
-      [GUFixture newFixture:@[ @"18", @"Eagles", @"Tigers", @". Perth", @"2014-07-25T20:40:00+10:00" ]],
+      [GUFixture newFixture:@[ @"18", @"Eagles", @"Tigers", @"Perth", @"2014-07-25T20:40:00+10:00" ]],
       [GUFixture newFixture:@[ @"18", @"Lions", @"Suns", @"Brisbane", @"2014-07-26T16:40:00+10:00" ]],
       [GUFixture newFixture:@[ @"18", @"Hawks", @"Swans", @"MCG", @"2014-07-26T19:40:00+10:00" ]],
       [GUFixture newFixture:@[ @"18", @"Magpies", @"Crows", @"MCG", @"2014-07-27T16:40:00+10:00" ]],
@@ -339,15 +339,15 @@
       [GUFixture newFixture:@[ @"22", @"Lions", @"Dockers", @"Brisbane", @"2014-08-24T13:10:00+10:00" ]],
       [GUFixture newFixture:@[ @"22", @"Bulldogs", @"Swans", @"Docklands", @"2014-08-24T15:20:00+10:00" ]],
       [GUFixture newFixture:@[ @"22", @"Tigers", @"Saints", @"MCG", @"2014-08-24T16:40:00+10:00" ]],
-      [GUFixture newFixture:@[ @"23", @"Blues", @"Bombers", @"MCG", @"2014-08-30T12:10:00+10:00" ]],
-      [GUFixture newFixture:@[ @"23", @"Cats", @"Lions", @"Geelong", @"2014-08-30T12:10:00+10:00" ]],
-      [GUFixture newFixture:@[ @"23", @"Roos", @"Demons", @"Docklands", @"2014-08-30T12:10:00+10:00" ]],
-      [GUFixture newFixture:@[ @"23", @"Crows", @"Saints", @"Adelaide", @"2014-08-30T12:10:00+10:00" ]],
-      [GUFixture newFixture:@[ @"23", @"Magpies", @"Hawks", @"MCG", @"2014-08-30T12:10:00+10:00" ]],
-      [GUFixture newFixture:@[ @"23", @"Dockers", @"Port", @"Perth", @"2014-08-30T12:10:00+10:00" ]],
-      [GUFixture newFixture:@[ @"23", @"Suns", @"Eagles", @"Gold Coast", @"2014-08-30T12:10:00+10:00" ]],
-      [GUFixture newFixture:@[ @"23", @"Swans", @"Tigers", @"Sydney Olympic", @"2014-08-30T12:10:00+10:00" ]],
-      [GUFixture newFixture:@[ @"23", @"Bulldogs", @"Giants", @"Docklands", @"2014-08-30T12:10:00+10:00" ]]
+      [GUFixture newFixture:@[ @"23", @"Blues", @"Bombers", @"MCG", @"2014-08-30T14:10:00+10:00" ]],
+      [GUFixture newFixture:@[ @"23", @"Cats", @"Lions", @"Geelong", @"2014-08-30T14:10:00+10:00" ]],
+      [GUFixture newFixture:@[ @"23", @"Roos", @"Demons", @"Docklands", @"2014-08-30T14:10:00+10:00" ]],
+      [GUFixture newFixture:@[ @"23", @"Crows", @"Saints", @"Adelaide", @"2014-08-30T14:10:00+10:00" ]],
+      [GUFixture newFixture:@[ @"23", @"Magpies", @"Hawks", @"MCG", @"2014-08-30T14:10:00+10:00" ]],
+      [GUFixture newFixture:@[ @"23", @"Dockers", @"Port", @"Perth", @"2014-08-30T14:10:00+10:00" ]],
+      [GUFixture newFixture:@[ @"23", @"Suns", @"Eagles", @"Gold Coast", @"2014-08-30T14:10:00+10:00" ]],
+      [GUFixture newFixture:@[ @"23", @"Swans", @"Tigers", @"Sydney Olympic", @"2014-08-30T14:10:00+10:00" ]],
+      [GUFixture newFixture:@[ @"23", @"Bulldogs", @"Giants", @"Docklands", @"2014-08-30T14:10:00+10:00" ]]
   ];
 }
 

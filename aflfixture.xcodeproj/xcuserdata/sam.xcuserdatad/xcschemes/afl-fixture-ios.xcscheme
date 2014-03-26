@@ -14,7 +14,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "1BBDFA46C80815A166B1D747"
-               BuildableName = "afl-fixture-ios.app"
+               BuildableName = "aflfixture.app"
                BlueprintName = "aflfixture"
                ReferencedContainer = "container:aflfixture.xcodeproj">
             </BuildableReference>
@@ -42,7 +42,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "1BBDFA46C80815A166B1D747"
-            BuildableName = "afl-fixture-ios.app"
+            BuildableName = "aflfixture.app"
             BlueprintName = "aflfixture"
             ReferencedContainer = "container:aflfixture.xcodeproj">
          </BuildableReference>

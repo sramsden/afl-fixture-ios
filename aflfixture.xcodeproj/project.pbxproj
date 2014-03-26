@@ -148,6 +148,11 @@
 			isa = PBXProject;
 			attributes = {
 				ORGANIZATIONNAME = "___FULLUSERNAME___";
+				TargetAttributes = {
+					1BBDFA46C80815A166B1D747 = {
+						DevelopmentTeam = 5SR96AC922;
+					};
+				};
 			};
 			buildConfigurationList = 1BBDF5B3FC2E23275D9B988E /* Build configuration list for PBXProject "aflfixture" */;
 			compatibilityVersion = "Xcode 3.2";
@@ -213,13 +218,14 @@
 		1BBDF237CA218C641BBC13D8 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				CODE_SIGN_IDENTITY = "iPhone Distribution: Samuel Ramsden (5SR96AC922)";
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "afl-fixture-ios/aflfixture-Prefix.pch";
 				INFOPLIST_FILE = "afl-fixture-ios/aflfixture-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 4.3;
+				IPHONEOS_DEPLOYMENT_TARGET = 6.0;
 				PRODUCT_NAME = aflfixture;
-				PROVISIONING_PROFILE = "18B30FAA-BD71-4B02-B247-EA7BCB1712C2";
+				PROVISIONING_PROFILE = "B8558416-9A1C-4FEF-AA38-F30B8A525000";
 				TARGETED_DEVICE_FAMILY = 1;
 				WRAPPER_EXTENSION = app;
 			};
@@ -228,13 +234,14 @@
 		1BBDF3E8CB10E7A6D2183C8B /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				CODE_SIGN_IDENTITY = "iPhone Distribution: Samuel Ramsden (5SR96AC922)";
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "afl-fixture-ios/aflfixture-Prefix.pch";
 				INFOPLIST_FILE = "afl-fixture-ios/aflfixture-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 4.3;
+				IPHONEOS_DEPLOYMENT_TARGET = 6.0;
 				PRODUCT_NAME = aflfixture;
-				PROVISIONING_PROFILE = "18B30FAA-BD71-4B02-B247-EA7BCB1712C2";
+				PROVISIONING_PROFILE = "B8558416-9A1C-4FEF-AA38-F30B8A525000";
 				TARGETED_DEVICE_FAMILY = 1;
 				WRAPPER_EXTENSION = app;
 			};

@@ -1,7 +1,7 @@
 
 #import <UIKit/UIKit.h>
 
-static NSString *const NEXT_EVENT = @"Next Round";
+static NSString *const NEXT_EVENT = @"Current Round";
 
 static NSString *const TEAM = @"By Team";
 
@@ -19,7 +19,7 @@ static NSString *const TIMESLOT = @"By Timeslot";
 
 @property(nonatomic, strong) NSArray *filterOptions;
 
-- (void)initFixtures;
+//- (void)initFixtures;
 
 + (GUFixtureViewController *)initFixtureViewController;
 @end
