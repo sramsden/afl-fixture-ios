@@ -339,15 +339,15 @@
       [GUFixture newFixture:@[ @"22", @"Lions", @"Dockers", @"Brisbane", @"2014-08-24T13:10:00+10:00" ]],
       [GUFixture newFixture:@[ @"22", @"Bulldogs", @"Swans", @"Docklands", @"2014-08-24T15:20:00+10:00" ]],
       [GUFixture newFixture:@[ @"22", @"Tigers", @"Saints", @"MCG", @"2014-08-24T16:40:00+10:00" ]],
-      [GUFixture newFixture:@[ @"23", @"Blues", @"Bombers", @"MCG", @"2014-08-30T14:10:00+10:00" ]],
-      [GUFixture newFixture:@[ @"23", @"Cats", @"Lions", @"Geelong", @"2014-08-30T14:10:00+10:00" ]],
-      [GUFixture newFixture:@[ @"23", @"Roos", @"Demons", @"Docklands", @"2014-08-30T14:10:00+10:00" ]],
-      [GUFixture newFixture:@[ @"23", @"Crows", @"Saints", @"Adelaide", @"2014-08-30T14:10:00+10:00" ]],
-      [GUFixture newFixture:@[ @"23", @"Magpies", @"Hawks", @"MCG", @"2014-08-30T14:10:00+10:00" ]],
-      [GUFixture newFixture:@[ @"23", @"Dockers", @"Port", @"Perth", @"2014-08-30T14:10:00+10:00" ]],
-      [GUFixture newFixture:@[ @"23", @"Suns", @"Eagles", @"Gold Coast", @"2014-08-30T14:10:00+10:00" ]],
-      [GUFixture newFixture:@[ @"23", @"Swans", @"Tigers", @"Sydney Olympic", @"2014-08-30T14:10:00+10:00" ]],
-      [GUFixture newFixture:@[ @"23", @"Bulldogs", @"Giants", @"Docklands", @"2014-08-30T14:10:00+10:00" ]]
+      [GUFixture newFixture:@[ @"23", @"Magpies", @"Hawks", @"MCG", @"2014-08-29T19:50:00+10:00" ]],
+      [GUFixture newFixture:@[ @"23", @"Blues", @"Bombers", @"MCG", @"2014-08-30T13:45:00+10:00" ]],
+      [GUFixture newFixture:@[ @"23", @"Dockers", @"Port", @"Perth", @"2014-08-30T15:10:00+10:00" ]],
+      [GUFixture newFixture:@[ @"23", @"Swans", @"Tigers", @"Sydney Olympic", @"2014-08-30T16:40:00+10:00" ]],
+      [GUFixture newFixture:@[ @"23", @"Cats", @"Lions", @"Geelong", @"2014-08-30T19:40:00+10:00" ]],
+      [GUFixture newFixture:@[ @"23", @"Roos", @"Demons", @"Docklands", @"2014-08-30T19:40:00+10:00" ]],
+      [GUFixture newFixture:@[ @"23", @"Suns", @"Eagles", @"Gold Coast", @"2014-08-31T13:10:00+10:00" ]],
+      [GUFixture newFixture:@[ @"23", @"Crows", @"Saints", @"Adelaide", @"2014-08-31T15:20:00+10:00" ]],
+      [GUFixture newFixture:@[ @"23", @"Bulldogs", @"Giants", @"Docklands", @"2014-08-31T16:40:00+10:00" ]]
   ];
 }
 
