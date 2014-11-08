@@ -15,7 +15,7 @@
 - (void)viewDidLoad {
   [super viewDidLoad]; // doco says you should call this
   self.tableView.backgroundColor = [UIColor blackColor];
-  self.title = @"AFL Fixture";
+  self.title = @"AFL Fixture 2015";
 
   _barButton = [[UIBarButtonItem alloc] init];
   _barButton.title = @"Filter";
